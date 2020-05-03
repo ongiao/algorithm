@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c1dbf97b-88d0-47ef-9c29-56071778341c" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/_134_Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_136_Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_138_Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_141_Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -34,11 +34,33 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_136_Solution.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="_136_Solution.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/_136_Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
-              <caret line="30" column="8" selection-start-line="30" selection-start-column="8" selection-end-line="30" selection-end-column="8" />
+            <state relative-caret-position="414">
+              <caret line="23" column="24" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_138_Solution.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/_138_Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="342">
+              <caret line="19" column="20" lean-forward="true" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#471#483#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_141_Solution.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/_141_Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="7" column="59" lean-forward="true" selection-start-line="7" selection-start-column="59" selection-end-line="7" selection-end-column="59" />
             </state>
           </provider>
         </entry>
@@ -61,6 +83,8 @@
         <option value="$PROJECT_DIR$/src/_240_Solution.java" />
         <option value="$PROJECT_DIR$/src/_134_Solution.java" />
         <option value="$PROJECT_DIR$/src/_136_Solution.java" />
+        <option value="$PROJECT_DIR$/src/_138_Solution.java" />
+        <option value="$PROJECT_DIR$/src/_141_Solution.java" />
       </list>
     </option>
   </component>
@@ -196,15 +220,15 @@
       <updated>1584287990210</updated>
       <workItem from="1584287994299" duration="997000" />
       <workItem from="1587995147808" duration="106000" />
-      <workItem from="1588493547953" duration="300000" />
+      <workItem from="1588493547953" duration="1391000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1403000" />
+    <option name="totallyTimeSpent" value="2494000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="44" y="32" width="1440" height="820" extended-state="0" />
+    <frame x="66" y="56" width="1440" height="820" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -217,7 +241,7 @@
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32918397" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32918397" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25679544" />
@@ -286,8 +310,26 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/_136_Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="30" column="8" selection-start-line="30" selection-start-column="8" selection-end-line="30" selection-end-column="8" />
+        <state relative-caret-position="414">
+          <caret line="23" column="24" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_138_Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="19" column="20" lean-forward="true" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#471#483#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_141_Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="59" lean-forward="true" selection-start-line="7" selection-start-column="59" selection-end-line="7" selection-end-column="59" />
         </state>
       </provider>
     </entry>
