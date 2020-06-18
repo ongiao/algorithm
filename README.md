@@ -1,5 +1,6 @@
 ### Leetcode Notes
 
+Record some questions I have completed~
 
 
 | ID   | Problem's Title                                              | Difficulty                | Java                                                         |
