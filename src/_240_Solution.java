@@ -9,7 +9,7 @@ public class _240_Solution {
 //    Integers in each column are sorted in ascending from top to bottom.
 //    Example:
 //
-//    Consider the following matrix:
+//    Consider the lfollowing matrix:
 //
 //            [
 //            [1,   4,  7, 11, 15],
