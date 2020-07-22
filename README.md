@@ -9,7 +9,7 @@ Move 101 - 110, 128 - 130 to issues, the others are remain in the src folder
 
 
 
-| ID   | Problem's Title                                              | Difficulty                | Java                                                         |
+| ID   | Problem's Title                                              | Difficulty                | Java solution                                                         |
 | ---- | ------------------------------------------------------------ | ------------------------- | ------------------------------------------------------------ |
 | 101 | Symmetric Tree | <font color=##00FF00>Easy</font> | [Java](https://github.com/ongiao/algorithm/issues/1) |
 | 102 | Binary Tree Level Order Traversal | <font color=#ff8040>Medium</font> | [Java](https://github.com/ongiao/algorithm/issues/2) |
