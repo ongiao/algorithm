@@ -4,7 +4,7 @@ Record some questions I have completed~
 
 ~~The solutions are in the src file~~
 
-Move 101 - 110, 128 - 130 to issues, the others are remain in the src folder 
+Move 101 - 110, 128 - 130 to issues, the others are remain in the src folder  
 To be continue...
 
 
